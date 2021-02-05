@@ -1,9 +1,8 @@
 # Labs_3308
-<<<<<<< HEAD
 =======
 
-Isaac Li
 Cebastian Adams
-Ryan Lin
+Isaac Li
 Max Rosenboom
 Ben Urbana
+Ryan Lin
