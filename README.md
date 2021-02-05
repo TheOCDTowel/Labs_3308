@@ -4,6 +4,6 @@
 
 Isaac Li
 Cebastian Adams
-Max Rosenboom
 Ryan Lin
 Ben Urbana
+Max Rosenboom
