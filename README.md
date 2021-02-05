@@ -1,2 +1,3 @@
-Isaac Li Cebastian Adams Ryan Lin Ben Urbana Max Rosenboom
 
+<<<<<<< HEAD
+Isaac Li Cebastian Adams Ryan Lin Max Rosenboom Ben Urbana
